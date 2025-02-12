@@ -19,9 +19,9 @@ This project builds a machine learning model to predict Formula 1 lap times base
 
 Python
 
-Scikit-Learn (Machine Learning)
+✅Scikit-Learn (Machine Learning)
 
-Pandas, NumPy (Data Preprocessing)
+✅Pandas, NumPy (Data Preprocessing)
 
-Matplotlib, Seaborn (Data Visualization)
+✅Matplotlib, Seaborn (Data Visualization)
 
